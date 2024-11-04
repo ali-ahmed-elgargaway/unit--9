@@ -1,0 +1,85 @@
+nav{
+    background-color: black;
+    display: flex;
+    justify-content:space-evenly;
+  overflow: hidden;
+    color: #fff;
+}
+nav ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    gap: 20px;
+    
+} 
+a{text-decoration: none;
+    color: white;
+    
+    }
+a:hover{
+        color: blue;
+    }
+
+.ali{
+    background-image: url(5c1a6aaade2b467dc70db636f69aaa57.jpg);
+    text-align: center ;
+    color: #fff;
+    overflow: hidden;
+    background-size: cover;
+   
+    
+}
+.ahmed{
+    text-align: center;
+}
+img{
+    height: 300px;
+    width: 30%;
+    margin: 20px;
+
+
+}
+
+i{
+   width: 20px;
+   height: 20px;
+    background-color: rgb(56, 156, 189);
+    color: white;
+    padding: 30px;
+    text-align: center;
+    
+}
+.text{
+display: flex;
+justify-content: space-around;
+text-align: center;
+
+
+
+}
+
+.header{
+    text-align: center;
+    background-color: #a3a0a0;
+    padding: 50px;
+}
+.input{
+    text-align: center;
+    background-image: url(3610a8544ebbab66017c4625bd4e2577.jpg);
+    background-size: cover;
+    color: white; 
+    background-color: rgba(0, 0, 0, 0);
+   
+
+
+}
+input{
+   width: 400px;
+   background-color: rgba(0, 0, 0, 0);
+}
+textarea{
+    width: 400px;
+    background-color: rgba(0, 0, 0, 0);
+}
+button{ background-color: rgba(0, 0, 0, 0);
+}
